@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $CC'echo $PATH | grep -o ":/" | wc −1 + 1))

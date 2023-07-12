@@ -1,0 +1,3 @@
+#l/bin/bash
+
+perl-Ine 'print if $ % 2 ==1'
